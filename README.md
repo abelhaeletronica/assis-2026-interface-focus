@@ -1,4 +1,5 @@
-# Título do Artigo (a definir)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20277885.svg)](https://doi.org/10.5281/zenodo.20277885)
 
 ## Autores
 
@@ -31,9 +32,10 @@ Breve descrição do estudo e seus objetivos. *(a preencher)*
 
 ## Licença
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) — em conformidade com a política de Open Access da Interface Focus (Royal Society Publishing, 2026). Após publicação, o artigo será depositado no PubMed Central pelos editores.
 
 ## Contato
 
 Gustavo de Assis — Universidade NOVA FCT de Lisboa  
 ORCID: [0009-0002-4167-0732](https://orcid.org/0009-0002-4167-0732)
+# Título do Artigo (a definir)
