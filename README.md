@@ -12,6 +12,8 @@ Breve descrição do estudo e seus objetivos. *(a preencher)*
 
 [Interface Focus](https://royalsocietypublishing.org/journal/rsfs) — Royal Society Publishing
 
+> **Open Access:** Em 2026, todos os artigos publicados nesta revista são Open Access, disponibilizados gratuitamente e imediatamente após a publicação, cobertos pela licença CC-BY e depositados no PubMed Central pelos editores. [Saiba mais](https://royalsocietypublishing.org/journal/rsfs/open-access)
+
 ## Estrutura do Repositório
 
 - `data/raw/` — Dados brutos originais (nunca modificar)
