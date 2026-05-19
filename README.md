@@ -1,4 +1,4 @@
-# Título do Artigo (a definir)
+# Title of the article (to be defined)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20277885.svg)](https://doi.org/10.5281/zenodo.20277885)
 
