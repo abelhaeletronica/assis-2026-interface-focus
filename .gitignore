@@ -1,0 +1,84 @@
+# ============================================================
+# .gitignore -- Scientific project Interface Focus
+# Gustavo de Assis -- Universidade NOVA FCT de Lisboa
+# ============================================================
+
+# ----------------------
+# Sensitive data
+# ----------------------
+*.env
+*.key
+*.token
+secrets/
+credentials/
+
+# ----------------------
+# Large raw data (deposit separately in Zenodo)
+# ----------------------
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.xls
+data/raw/*.json
+data/raw/*.zip
+data/raw/*.tar.gz
+
+# ----------------------
+# Manuscript drafts
+# ----------------------
+manuscript/drafts/
+manuscript/*.bak
+manuscript/*~
+
+# ----------------------
+# Quarto outputs (auto-generated)
+# ----------------------
+/_site/
+/.quarto/
+manuscript/*.pdf
+manuscript/*.html
+manuscript/*.tex
+
+# ----------------------
+# Operating system files
+# ----------------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ----------------------
+# Text editors
+# ----------------------
+
+# Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# LibreOffice
+.~lock.*
+
+# ----------------------
+# Temporary files
+# ----------------------
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+
+# ----------------------
+# System folders
+# ----------------------
+.trash/
+.cache/

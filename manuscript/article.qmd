@@ -20,7 +20,7 @@ format:
  html:
    toc: true
    number-sections: true
-bibliography: ../references/references.bib
+bibliography: ../references/interface-focus.bib
 csl: ../references/royal-society.csl
 keywords:
  - stigmergy

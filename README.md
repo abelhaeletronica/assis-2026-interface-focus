@@ -17,9 +17,10 @@ Brief description of the study and its objectives. *(to be filled)*
 - `data/raw/` -- Raw data (do not modify)
 - `data/processed/` -- Processed/cleaned data
 - `scripts/` -- Analysis scripts
-- `figures/` -- Generated figures and plots
+- `images/` -- Generated figures and plots
 - `manuscript/` -- Article manuscript
 - `supplementary/` -- Supplementary material
+- `references/` —- Bibliographical references 
 
 ## How to Reproduce the Analyses
 1. Clone the repository
