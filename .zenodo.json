@@ -1,0 +1,33 @@
+{
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "creators": [
+    {
+      "name": "de Assis, Gustavo",
+      "affiliation": "Universidade NOVA FCT de Lisboa",
+      "orcid": "0009-0002-4167-0732"
+    }
+  ],
+  "title": "Stigmergy and Perishable Traces: Clay as a Material Operator for Rethinking Collective Coordination",
+  "description": "Repository supporting the manuscript submitted to Interface Focus (Royal Society Publishing, 2026). This article critically revisits stigmergy through the lens of material practice with raw clay, arguing that impermanence is not a defect of stigmergic systems but their operative condition.",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "stigmergy",
+    "collective intelligence",
+    "materiality",
+    "clay",
+    "perishable traces",
+    "metamarks",
+    "Interface Focus",
+    "Royal Society"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/abelhaeletronica/assis-2026-interface-focus",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
