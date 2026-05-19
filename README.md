@@ -30,6 +30,10 @@ Brief description of the study and its objectives. *(to be filled)*
 ## License
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) -- in accordance with the Open Access policy of Interface Focus (Royal Society Publishing, 2026). Upon publication, the article will be deposited in PubMed Central by the editors.
 
+> **Open Notebook:** This repository is fully open. 
+> The manuscript is being written in public and 
+> can be followed in real time.
+
 ## Contact
 Gustavo de Assis -- Universidade NOVA FCT de Lisboa
 ORCID: [0009-0002-4167-0732](https://orcid.org/0009-0002-4167-0732)
