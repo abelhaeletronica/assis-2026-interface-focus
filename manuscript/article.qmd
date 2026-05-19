@@ -21,7 +21,7 @@ format:
    toc: true
    number-sections: true
 bibliography: ../references/interface-focus.bib
-csl: ../references/royal-society.csl
+csl: ../references/proceedings-of-the-royal-society-b.csl
 keywords:
  - stigmergy
  - collective intelligence
